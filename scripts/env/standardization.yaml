@@ -1,0 +1,15 @@
+name: geo-data-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pandas=1.5.3
+  - numpy=1.24.4
+  - gensim=4.3.0
+  - geopy=2.4.1
+  - pycountry=24.6.1
+  - pip
+  - pip:
+      - countryinfo==0.1.2
+      - importlib-metadata 
