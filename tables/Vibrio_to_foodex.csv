@@ -1,0 +1,428 @@
+Isolation type;Isolation source;Host;Source type;Host disease;Ambiguity;Code;Foodex2
+;;;;;False;0ROOT;ROOT
+clinical;;homo sapiens;human;;False;HUMAN;Human
+;ascites by plating;epinephelus coioides;;;False;A0FAS;Groupers
+;seafood corb shell;;;;False;A029R;Marine fish
+clinical;stool;homo sapiens;;;False;HUMAN;Human
+environmental other;oyster;;;;False;A02HG;Oysters
+;big eye fish;;;;False;A02AG;Miscellaneous demersal marine fishes
+;salmon sashimi;;;;False;A03XM#F28.A07HS;Seafood-based meals 
+clinical;oyster;homo sapiens;;;False;HUMAN;Human
+clinical;stool;homo sapiens;human;;False;HUMAN;Human
+clinical;stool;homo sapiens;human;;False;HUMAN;Human
+;water;;;;False;A0C5Y;Environment
+;seafood;;;;False;A0EZQ;Seafood and products thereof
+clinical;water;;;;False;A0C5Y;Environment
+clinical;wound;homo sapiens;human;;False;HUMAN;Human
+environmental other;environment;;environmental;;False;A0C5Y;Environment
+environmental other;oyster;;food;;False;A02HG;Oysters
+clinical;ear;homo sapiens;human;;False;HUMAN;Human
+environmental other;clam;;food;;False;A02HA;Clams
+environmental other;environment gulf coast;;environmental;;False;WATER;Seawater
+environmental other;;;;;False;A0C5Y;Environment
+environmental other;sediment;;;;False;A0C5Y;Environment
+environmental other;ems ahpnd diseased hepatopancreas;penaeus vannamei;;;False;A02GA;White shrimp
+environmental other;shrimp pond;;;;False;A0F7H#F01.A02FX;Stillwater (ponds, lakes, swamps etc)
+;shrimp pond sediment;;;;False;A0F7H#F01.A02FX;Stillwater (ponds, lakes, swamps etc)
+clinical;;homo sapiens;;;False;HUMAN;Human
+clinical;blood;homo sapiens;;;False;HUMAN;Human
+;sea water;;;;False;WATER;Seawater
+clinical;water sample;;;;False;A0C5Y;Environment
+clinical;oyster sample;;;;False;A02HG;Oysters
+clinical;stool sample;homo sapiens;;gastroenteritis;False;HUMAN;Human
+clinical;plankton sample;;;;False;A02FM;Krill, planktonic crustaceans
+clinical;clinical sample;homo sapiens;;vibrio gastroenteritis;False;HUMAN;Human
+clinical;not collected;homo sapiens;;gastroenteritis;False;HUMAN;Human
+;marine sediment;;;;False;A0C5Y;Environment
+clinical;clinical patient;homo sapiens;;;False;HUMAN;Human
+clinical;;;;gastroenteritis;False;HUMAN;Human
+;vibriosis episode;dentex dentex;;;False;A0FAX;Dentex
+clinical;;homo sapiens;;gastroenteritis;False;HUMAN;Human
+;vibriosis episode;sparus aurata;;;False;A029V;Sea bream
+;aquaculture environment;seriola dumerili;;;False;A07RV#F01.A0QAC;Farmed / cultivated / aquaculture
+environmental other;oysters;;;;False;A02HG;Oysters
+clinical;clinical patient;homo sapiens;;applicable;False;HUMAN;Human
+environmental other;environmental;environment;;;False;A0C5Y;Environment
+environmental other;;finespotted flounder;;;False;A02AT;Flounders
+environmental other;mollusc;;;;False;A02GM;Molluscs
+environmental other;seafood;;;;False;A0EZQ;Seafood and products thereof
+environmental other;canada;;;;False;A0C5Y;Environment
+environmental other;mollusk;;;;False;A02GM;Molluscs
+environmental other;clam;;;;False;A02HA;Clams
+environmental other;mussel;;;;False;A02HF;Mussels
+environmental other;imported shrimp;;;;False;A02FX;Shrimps and prawns
+clinical;human with diarrhea assosiated with seafood cunsumption hospital general;homo sapiens;;seafood comsumption associated diarrhea;False;HUMAN;Human
+clinical;human with diarrhea assosiated with seafood cunsumption pacific ocean coast northern chile;homo sapiens;;seafood comsumption associated diarrhea;False;HUMAN;Human
+environmental other;shrimp;;;;False;A02FX;Shrimps and prawns
+;sea water;epinephelus coioides;;;False;WATER#F01.A02BV;Groupers
+environmental other;cutting board;;;;False;A0C5Y;Environment
+;seagrass sediment;;;;False;A0C5Y;Environment
+environmental other;aquarium water;;;;False;A07RV;Farmed / cultivated / aquaculture
+;seawater;;;;False;WATER;Seawater
+environmental other;spoiled horse mackerel causing food poisoning;;;;False;A02CN#STALE;Horse mackerels
+clinical;human;homo sapiens;;vibrio infection;False;HUMAN;Human
+environmental other;sea food;;;;False;A03XM;Seafood-based meals
+environmental other;seawater;environment;;;False;WATER;Seawater
+clinical;stool;homo sapiens;;diarrhea;False;HUMAN;Human
+environmental other;shirasu;environment;;;False;A02DA;Sardines and sardine-type fishes
+clinical;clinical sample from patient with gastroenteritis;homo sapiens;;gastroenteritis;False;HUMAN;Human
+;culture;;;;False;0ROOT;ROOT
+;mucus of coral;danafungia horrida;;;False;A0C5Y;Environment
+clinical;clinical sample from patient with gastroenteritis;homo sapiens;;vibrio gastroenteritis;False;HUMAN;Human
+clinical;foot wound from diabetic patient;homo sapiens;;;False;HUMAN;Human
+;;toothfish;;;False;A029T;Sea bass
+;;epinephelus coioides;;;False;A0FAS;Groupers
+clinical;stool;;;gastroenteritis;False;HUMAN;Human
+clinical;stool;;;gastroenteritis;False;HUMAN;Human
+;filtered seawater micron fraction;;;;False;WATER;Seawater
+clinical;stool;homo sapiens;human;gastroenteritis;False;HUMAN;Human
+clinical;stool;homo sapiens;human;gastroenteritis;False;HUMAN;Human
+clinical;;oysters;;;False;A02HG;Oysters
+;;shrimps;;;False;A02FX;Shrimps and prawns
+;;mytilus edulis;;;False;A02HF;Mussels
+clinical;stool;homo sapiens;;gastroenteritis;False;HUMAN;Human
+clinical;;;;;False;HUMAN;Human
+clinical;patient;homo sapiens;;;False;HUMAN;Human
+;;clam;;;False;A02HA;Clams
+environmental other;;penaeus sp;;;False;A02FX;Shrimps and prawns
+environmental other;crab marinated in soy sauce;;;;False;A02FD#F28.A07JT;Crustaceans
+environmental other;sea bass;;;;False;A029T;Sea bass
+clinical;clinical;homo sapiens;;gastroenteritis;False;HUMAN;Human
+;;oyster;;;False;A02HG;Oysters
+clinical;feces;homo sapiens;;diarrhea;False;HUMAN;Human
+environmental other;fish;;;;False;A026V;Fish (meat)
+environmental other;wound;;;;False;HUMAN;Human
+;shrimp pond;;;;False;A0F7H#F01.A02FX;Stillwater (ponds, lakes, swamps etc)
+;aquaculture pond;;;;False;A07RV;Farmed / cultivated / aquaculture
+;;mussels;;;False;A02HF;Mussels
+clinical;sample from sick person;homo sapiens;;;False;HUMAN;Human
+environmental other;atlantic coast;;environmental;;False;WATER;Seawater
+;;mussel;;;False;A02HF;Mussels
+clinical;hepatopancrease;penaeus vannamei;;ahpnd;False;A02GA;White shrimp
+clinical;stomach;penaeus vannamei;;ahpnd;False;A02GA;White shrimp
+clinical;hemolymph;penaeus vannamei;;ahpnd;False;A02GA;White shrimp
+;rotten kelp;;;;False;A00VA;Algae and prokaryotes organisms
+;kiel fjord;syngnathus typhle;;;False;A09MV;Pipefishes, seahorses (generic) (live animal)
+clinical;;homo sapiens;;vibriosis;False;HUMAN;Human
+clinical;;mollusc;;;False;A02GM;Molluscs
+;stomach;penaeus vannamei;;;False;A02GA;White shrimp
+environmental other;stewed chicken;;;;False;A03VY#F04.A01SP;Meat stew
+environmental other;stewed meat;;;;False;A03VY;Meat stew
+environmental other;roast duck;;;;False;A01SR#F28.A07GY;Duck fresh meat
+environmental other;cold noodle;;;;False;A008F;Noodle, rice
+environmental other;frozen shrimp;;;;False;A02FX#F28.A07KQ;Shrimps and prawns
+environmental other;plain boiled chicken;;;;False;A01SP#F28.A07GL;Chicken fresh meat
+environmental other;grouper fish;;;;False;A0FAS;Groupers
+environmental other;blue mussel mytilus edulis;;food;;False;A0FCY;Blue mussel 
+environmental other;pacific oyster crassostrea gigas;;food;;False;A02HG;Oysters
+environmental other;water;;;;False;A0C5Y;Environment
+clinical;oyster;;;gastroenteritis;False;A02HG;Oysters
+;aquaculture environmental;;;;False;A07RV;Farmed / cultivated / aquaculture
+clinical;small intestine;deer;;;False;A056M;Deer (live animals)
+;water from the south atlantic bight;;;;False;WATER;Seawater
+;ahpnd infected pond water;;;;False;A0F7H;Stillwater (ponds, lakes, swamps etc)
+;;ostreidae;;;False;A02HG;Oysters
+clinical;clinical;homo sapiens;human;;False;HUMAN;Human
+environmental other;shellfish;;food;;False;A0EZQ;Seafood and products thereof
+;aquaculture;penaeus vannamei;;;False;A07RV#F01.A02GA;Farmed / cultivated / aquaculture
+;hepatopancreas;penaeus vannamei;;;False;A02GA;White shrimp
+;aquaculture pond water;;;;False;A07RV;Farmed / cultivated / aquaculture
+;shrimp farm;penaeus vannamei;;;False;A0F7H#F01.A02GA;Stillwater (ponds, lakes, swamps etc)
+environmental other;water;;environmental;;False;A0C5Y;Environment
+environmental other;plankton;;environmental;;False;A02FM;Krill, planktonic crustaceans
+environmental other;sediment;;environmental;;False;A0C5Y;Environment
+clinical;blister;homo sapiens;;vibrio infection;False;HUMAN;Human
+environmental other;cured hides;environment;;;False;0ROOT;ROOT
+environmental other;sponge;environment;;;False;A0C5Y;Environment
+environmental other;cockless;environment;;;False;A02HE;Cockles
+;;homos sapiens;;;False;HUMAN;Human
+;;penaeus vannamei;;;False;A02GA;White shrimp
+;shrimp food;;;;False;A02FX;Shrimps and prawns
+;not available to be reported later;not available;;;False;0ROOT;ROOT
+environmental other;crab meat lump;;food;;False;A02FD;Crustaceans
+environmental other;crab meat jumbo lump;;food;;False;A02FD;Crustaceans
+clinical;feces;homo sapiens;;;False;HUMAN;Human
+;food;environmental;;;False;A0B6Z;Food
+environmental other;raw oyster;;;;False;A02HG#F28.A07HS;Oysters
+;;fish;;;False;A029R;Marine fish
+environmental other;shellfish water;;environmental;;False;WATER;Seawater
+environmental other;sea otter blood enhydra;;animal;;False;A0CHN;Otters (live animals)
+environmental other;sea otter stool enhydra;;animal;;False;A0CHN;Otters (live animals)
+environmental other;sea otter enhydra;;animal;;False;A0CHN;Otters (live animals)
+environmental other;sea otter intestinal enhydra;;animal;;False;A0CHN;Otters (live animals)
+environmental other;sea water;;environmental;;False;WATER;Seawater
+clinical;feces;homo sapiens;;gastroenteritis;False;HUMAN;Human
+clinical;shrimp;penaeus vannamei;;ahpnd;False;A02GA;White shrimp
+environmental other;estuary;;;;False;A0C5Y;Environment
+clinical;stool;homo sapiens;;diarrheal;False;HUMAN;Human
+environmental other;pre cooked lake crab lump;;food;;False;A02FD#F28.A0BA1;Crustaceans
+;seawater;not collected;;;False;WATER;Seawater
+;solar saltern sediment;;;;False;A0C5Y;Environment
+clinical;feces;homo sapiens;;homo sapiens;False;HUMAN;Human
+;micron;;;;False;0ROOT;ROOT
+environmental other;marine surface water;;environmental;;False;WATER;Seawater
+environmental other;hepatopancreas;penaeus vannamei;;;False;A02GA;White shrimp
+;coastal seawater;;;;False;WATER;Seawater
+clinical;fish;;;;False;A026V;Fish (meat)
+clinical;shellfish;;;;False;A0EZQ;Seafood and products thereof
+clinical;sediment;;;;False;A0C5Y;Environment
+environmental other;miniatus grouper;;;;False;A0FAS;Groupers
+environmental other;hairtail;;;;False;A0FBG;Hairtails, scabbardfishes (generic)
+environmental other;turbot;;;;False;A02BG;Turbot
+clinical;clinic;homo sapiens;;acute diarrhea;False;HUMAN;Human
+environmental other;black carp;;;;False;A0F8C;Black carp
+environmental other;market;;;;False;A0C5Y;Environment
+clinical;human gut;;;;False;HUMAN;Human
+clinical;anal swab;homo sapiens;;diarrhea;False;HUMAN;Human
+clinical;seafood;;;none;False;A0EZQ;Seafood and products thereof
+;penaeus vannamei;;;;False;A02GA;White shrimp
+;gut;holothuria tubulosa;;;False;A02GR;Sea-cucumbers
+clinical;clinical isolate;homo sapiens;;;False;HUMAN;Human
+clinical;shrimp;;;;False;A02FX;Shrimps and prawns
+;mucus;danafungia horrida;;;False;A0C5Y;Environment
+;marine environment;coral;;;False;A0C5Y;Environment
+environmental other;;mytilus edulis;;;False;A02HF;Mussels
+environmental other;;shrimp;;;False;A02FX;Shrimps and prawns
+;great bay estuary;;;;False;WATER;Seawater
+;oyster;;;;False;A02HG;Oysters
+;wound;;;;False;HUMAN;Human
+;zooplankton;;;;False;A02FM;Krill, planktonic crustaceans
+;phytoplankton;;;;False;A02FM;Krill, planktonic crustaceans
+;sediment;;;;False;A0C5Y;Environment
+;;penaeus monodon;;;False;A02FX;Shrimps and prawns
+;phyto;;;;False;A02FM;Krill, planktonic crustaceans
+;esturary;;;;False;A0C5Y;Environment
+;estuary;;;;False;A0C5Y;Environment
+environmental other;bird feces common greenshank;;;;False;A057X#FECES;Bird (live animals)
+;;crassostrea virginica;;;False;A02HG;Oysters
+;environmental;;;;False;A0C5Y;Environment
+clinical;stool;;;;False;HUMAN;Human
+clinical;stool;;;;False;HUMAN;Human
+clinical;oral swab;;;;False;HUMAN;Human
+clinical;wound;;;;False;HUMAN;Human
+clinical;other;;;;False;HUMAN;Human
+environmental other;ahpnd infected litopenaeus vannamei;penaeus vannamei;;;False;A02GA;White shrimp
+environmental other;ahpnd infected penaeus japonicus;penaeus japonicus;;;False;A02FX;Shrimps and prawns
+;shrimp hepatopancreas;penaeus vannamei;;;False;A02GA;White shrimp
+;;seawater;;;False;WATER;Seawater
+;soil;;;;False;A0C5Y;Environment
+;;scallop;;;False;A02HN;Scallops, pectens
+environmental other;estuarine water;;environmental;;False;WATER;Seawater
+environmental other;;oyster;;;False;A02HG;Oysters
+;healthy pacific oyster larvae;crassostrea gigas;;;False;A02HG;Oysters
+;shellfish hatchery tank;;;;False;A07RV;Farmed / cultivated / aquaculture
+;shellfish hatchery;;;;False;A07RV;Farmed / cultivated / aquaculture
+;post larvae whole body;penaeus monodon;;;False;A02FX;Shrimps and prawns
+;crayfish;;;;False;A02FG;Freshwater crayfishes
+;environment;;;;False;A0C5Y;Environment
+;marsh seawater;;;;False;WATER;Seawater
+clinical;laboratory sample;homo sapiens;;gastroenteritis;False;HUMAN;Human
+environmental other;squid;;;;False;A02JH;Squids
+environmental other;cold dish;;;;False;A0B6Z;Food
+environmental other;pacific saury;;;;False;A02BM;Miscellaneous pelagic marine fishes
+environmental other;yellow croaker;;;;False;A0FBA;Yellow croaker
+environmental other;tilapia;;;;False;A028A;Tilapia
+environmental other;bullhead;;;;False;A027J;Catfishes (freshwater) 
+environmental other;cuttlefish;;;;False;A02JA;Cuttlefishes
+environmental other;snakehead;;;;False;A0F8Z;Snakehead
+environmental other;grass carp;;;;False;A027E;Carp, grass
+environmental other;salmon;;;;False;A0C75;Salmons
+environmental other;carp;;;;False;A027C;Carps
+environmental other;dried shrimp;;;;False;A02FX;Shrimps and prawns
+environmental other;blunt snout bream;;;;False;A029V;Sea bream
+environmental other;crayfish;;;;False;A02FG;Freshwater crayfishes
+environmental other;bream;;;;False;A029V;Sea bream
+environmental other;aquatic product;;;;False;A07RV;Farmed / cultivated / aquaculture
+environmental other;stool;;;;False;HUMAN;Human
+clinical;china;homo sapiens;;diarrhea;False;HUMAN;Human
+environmental other;;penaeus vannamei whiteleg shrimp;;;False;A02GA;White shrimp
+environmental other;diseased shrimp;;;;False;A02FX;Shrimps and prawns
+environmental other;skin canthigaster valentini;;;;False;A029S;Miscellaneous coastal marine fishes
+environmental other;seawater;;;;False;WATER;Seawater
+;seawater adriatic sea;;;;False;WATER;Seawater
+environmental other;litopenaeus vannamei purchased at the supermarket;;;;False;A02GA;White shrimp
+environmental other;stool sample;;;;False;HUMAN;Human
+environmental other;anal swab;;;;False;0ROOT;ROOT
+environmental other;delicatessen;;;;False;0ROOT;ROOT
+environmental other;cooked food;;;;False;A0B6Z;Food
+environmental other;spiced duck;;;;False;A01SR#F28.A07GY;Duck fresh meat
+environmental other;anal swabs;;;;False;HUMAN;Human
+environmental other;muscovy duck;;;;False;A058B;Duck (live animals)
+environmental other;swabs;;;;False;HUMAN;Human
+environmental other;fiddlehead;;;;False;A07XJ;Garden vegetables and primary derivatives thereof
+environmental other;environmental;;;;False;A0C5Y;Environment
+environmental other;clinical;;;;False;HUMAN;Human
+;sea cuccumber;apostichopus japonicus;;;False;A02GR;Sea-cucumbers
+environmental other;environment;;;;False;A0C5Y;Environment
+environmental other;hard clam;;food;;False;A02HA;Clams
+environmental other;not collected;;;;False;A0C5Y;Environment
+environmental other;seafood commercially available in fujian market;;;;False;A0EZQ;Seafood and products thereof
+environmental other;seafood commercially available in shanxi market;;;;False;A0EZQ;Seafood and products thereof
+environmental other;seafood commercially available in anhui market;;;;False;A0EZQ;Seafood and products thereof
+environmental other;sea water;;;;False;WATER;Seawater
+environmental other;benthal deposit;;;;False;A0C5Y;Environment
+environmental other;rectal swab;;;;False;HUMAN;Human
+;water;sparus aurata;;;False;WATER#F01.A0C5Y;Seawater
+;ballast water;;;;False;A0C5Y;Environment
+clinical;phage resistant mutant;homo sapiens;;;False;HUMAN;Human
+clinical;human;;;;False;HUMAN;Human
+environmental other;food;;;;False;A0B6Z;Food
+environmental other;swab;;;;False;HUMAN;Human
+clinical;feces;clinical;;gastroenteritis;False;HUMAN;Human
+;hepatopancreas;penaeus monodon;;;False;A02FX;Shrimps and prawns
+environmental other;imported seafood from vietnam;;;;False;A0EZQ;Seafood and products thereof
+environmental other;imported seafood from thailand;;;;False;A0EZQ;Seafood and products thereof
+environmental other;imported seafood from ecuador;;;;False;A0EZQ;Seafood and products thereof
+;laboratory;;;;False;HUMAN;Human
+environmental other;penaeus vannamei whiteleg shrimp;;;;False;A02GA;White shrimp
+environmental other;mactra veneriformis;;;;False;A02GZ;Clams, cockles, arkshells
+;coral mucus;acropora palmata;;;False;A0C5Y;Environment
+;reef seawater;;;;False;WATER;Seawater
+environmental other;crabs;;;;False;A02FD;Crustaceans
+environmental other;shrimps;;;;False;A02FX;Shrimps and prawns
+environmental other;mussels;;;;False;A02HF;Mussels
+;seawater layers;;;;False;WATER;Seawater
+environmental other;shoreline saltwater;;;;False;WATER;Seawater
+;gut;holothuria leucospilota;;;False;A02GR;Sea-cucumbers
+;estuarine sediment;;;;False;A0C5Y;Environment
+environmental other;;penaeus vannamei;;;False;A02GA;White shrimp
+clinical;environmental;;;;False;0ROOT;ROOT
+;;idella;;;False;A027C;Carps
+;;paratapes undulatus;;;False;A02HA;Clams
+;;perna viridis;;;False;A02HF;Mussels
+;;nobilis;;;False;A027C;Carps
+;;mactra quadrangularis;;;False;A02GM;Molluscs
+clinical;stool;homo sapiens;;vibriosis;False;HUMAN;Human
+environmental other;continental water;;;;False;A0C5Y;Environment
+environmental other;estuarine water;;;;False;WATER;Seawater
+environmental other;marine water;;;;False;WATER;Seawater
+;not collected;not collected;;;False;0ROOT;ROOT
+;;crassostrea gigas;;;False;A02HG;Oysters
+environmental other;aquatic bird feces;;;;False;A057X#FECES;Bird (live animals)
+environmental other;shrimp sh;;;;False;A02FX;Shrimps and prawns
+environmental other;marine oyster;;environmental;;False;A02HG;Oysters
+;;lutjanus erythropterus;;;False;A027N;Perch
+environmental other;sour bean;;;;False;A03VS;Beans and vegetables meal
+clinical;;;human;;False;HUMAN;Human
+clinical;patient;homo sapiens;;gastroenteritis;False;HUMAN;Human
+clinical;environment;;;;False;0ROOT;ROOT
+environmental other;shirmp;;;;False;A02FX;Shrimps and prawns
+clinical;feces;homo sapiens;;vibrio gastroenteritis;False;HUMAN;Human
+clinical;;ostreidae;;;False;A02HG;Oysters
+clinical;person;homo sapiens;;;False;HUMAN;Human
+;coelomic fluid;stichopus ocellatus;;;False;A02GR;Sea-cucumbers
+environmental other;envrionmental;;;;False;A0C5Y;Environment
+environmental other;;epinephelus fasciatus;;;False;A0FAS;Groupers
+environmental other;;saccostrea cucullata;;;False;A02HG;Oysters
+environmental other;;scarus ghobban;;;False;A09JY;Parrotfishes (generic) (live animal)
+environmental other;;centropristis striata;;;False;A029T;Sea bass
+;;algae;;;False;A00VA;Algae and prokaryotes organisms
+environmental other;imported domestic retail mussels;;;;False;A02HF;Mussels
+environmental other;imported domestic retail oyster;;;;False;A02HG;Oysters
+environmental other;raw shrimp;;;;False;A02FX;Shrimps and prawns
+environmental other;clams;;;;False;A02HA;Clams
+environmental other;imported domestic retail mollusks unspecified;;;;False;A02GM;Molluscs
+environmental other;imported domestic retail clams;;;;False;A02HA;Clams
+environmental other;shrimp;;food;;False;A02FX;Shrimps and prawns
+environmental other;clam seafood;;;;False;A02HA;Clams
+environmental other;freshwater;;;;False;A0F7G;Naturally occurring freshwater
+environmental other;stale fish;;;;False;A0EZQ#STALE;Seafood and products thereof 
+environmental other;fresh fish;;;;False;A026X;Freshwater fish
+environmental other;stale sea fish;;;;False;A0EZQ#STALE;Seafood and products thereof 
+environmental other;fresh sea fish;;;;False;A026X;Freshwater fish
+environmental other;frozen squid;;;;False;A02JH#F28.A07KQ;Squids
+environmental other;ribbonfish seafood;;;;False;A02AG;Miscellaneous demersal marine fishes
+;;oratosquilla oratoria;;;False;A02FX;Shrimps and prawns
+;;corbicula aurea;;;False;A02HY;Freshwater molluscs
+;marine;;;;False;A0C5Y;Environment
+;marine net tow;;;;False;A0C5Y;Environment
+clinical;public health laboratory;homo sapiens;;illness;False;HUMAN;Human
+;the shrimp farm in eastern thailand;pacific white shrimp litopenaeus vannamei;;;False;A0F7H#F01.A02GB;Stillwater (ponds, lakes, swamps etc)
+;fresh seafood sold at markets and supermarkets located in bangkok thailand;oyster;;;False;A02HG;Oysters
+;fresh seafood sold at markets and supermarkets located in bangkok thailand;mackerel;;;False;A02CT;Mackerel
+;fresh seafood sold at markets and supermarkets located in bangkok thailand;pacific white shrimp litopenaeus vannamei;;;False;A02GA;White shrimp
+;the shrimp farm in north vietnam;pacific white shrimp litopenaeus vannamei;;;False;A07RV#F01.A02GB;Farmed / cultivated / aquaculture
+;fresh seafood sold at markets and supermarkets located in bangkok thailand;ornate threadfin bream;;;False;A029V;Sea bream
+;fresh seafood sold at markets and supermarkets located in bangkok thailand;giant seaperch;;;False;A027N;Perch
+;fresh seafood sold at markets and supermarkets located in bangkok thailand;grouper;;;False;A0FAS;Groupers
+;macerated stomach and hepatopancreas samples from shrimp samples were grown in tcbs and colonies purified on tsa plates according to morphology isolate was cultured in tcbs;penaeus litopenaeus vannamei;;;False;A02GA;White shrimp
+environmental other;;non human;;;False;0ROOT;ROOT
+;mucilage in the sea of marmara;;;;False;WATER;Seawater
+;visceral;paratapes undulatus;;;False;A02GZ;Clams, cockles, arkshells
+;;zebrafish;;;False;A0JYJ;Danio (generic)  (live animal)
+;;syngnathus typhle;;;False;A09MV;Pipefishes, seahorses (generic) (live animal)
+;diseased fish;epinephelus fuscoguttatus;;;False;A026V;Groupers
+;;shrimp;;;False;A02FX;Shrimps and prawns
+environmental other;seafood market;;;;False;A0EZQ;Seafood and products thereof
+environmental other;plankton;;;;False;A02FM;Krill, planktonic crustaceans
+;;genypterus chilensis;;;False;A0FBJ;Cusk-eels
+environmental other;marine oyster;;;;False;A02HG;Oysters
+;;nematostella vectensis;;;False;0ROOT;ROOT
+;hepatopancreas;penaeus vannamei white shrimp;;;False;A02GA;White shrimp
+;seawater;penaeus vannamei white shrimp;;;False;WATER#F01.A02GA;Seawater
+environmental other;arctic surf clams;;;;False;A02HA;Clams
+;seawater from white shrimp litopenaeus vannamei tank;;;;False;WATER#F01.A053R;Seawater
+;shell fish;;;;False;A0EZQ;Seafood and products thereof
+;pork;;;;False;A01TN;Bovine and pig fresh meat
+clinical;stool;homo sapiens;;acute diarrhea;False;HUMAN;Human
+;shrimp culture pond;penaeus vannamei;;;False;A02GA;White shrimp
+;shellfish;;;;False;A0EZQ;Seafood and products thereof
+;;shrimp;;acute necrosis disease;False;A02FX;Shrimps and prawns
+environmental other;litopenaeus vannamei;;;;False;A02GA;White shrimp
+clinical;stool;homosapiens;;diarrhea;False;HUMAN;Human
+environmental other;lung;delphinus delphis;animal;;False;A08TE;Dolphinfishes (generic) (live animal)
+;feces;mallard;;;False;A058P#FECES;Mallard (live animals)
+;feces;ardeola bacchus;;;False;A057X;Bird (live animals)
+;feces;charadriiformes;;;False;A057X;Bird (live animals)
+;sea water separation;penaeus vannamei;;;False;WATER#F01.A02GA;Seawater
+;takifugu ocellatus;;;;False;A0Y5S;Takifugu porphyreus (live animal)
+;gut of asian seabass;asian seabass;;;False;A0FAQ;Japanese seabass
+clinical;;fecal;;gastroenteritis;False;HUMAN;Human
+;estuarine water;;;;False;WATER;Seawater
+clinical;human;homo sapiens;human;;False;HUMAN;Human
+;shrimp pond;penaeus vannamei;;;False;A0F7H#F01.A02GA;Stillwater (ponds, lakes, swamps etc)
+environmental other;;penaeus vannamei;environmental;;False;A02GA;White shrimp
+;aquaculture farm;apostichopus japonicus;;;False;A07RV#F01.A02GR;Farmed / cultivated / aquaculture
+;;crassostrea;;;False;A02HG;Oysters
+;;keenocardium californiense;;;False;A0FAB;Miscellaneous marine molluscs
+;;gould razor shell;;;False;A0FAB;Miscellaneous marine molluscs
+;;sinonovacula constricta;;;False;A02HA;Clams
+;;corbicula fluminea;;;False;A02HY;Freshwater molluscs
+;gastroenteritis;;;;False;HUMAN;Human
+clinical;;lates calcarifer;;vibriosis;False;A028F;Barramundi
+environmental other;seawater from oyster bed;;environmental;;False;A0C5Y#F04.A02HG;Environment
+environmental other;eastern oyster from coastal estuary;;animal;;False;A02HG;Oysters
+environmental other;eastern oyster larvae from hatchery;;animal;;False;A02HG;Oysters
+;;prawn;;;False;A02FX;Shrimps and prawns
+environmental other;migratory birds feces;;;;False;A057X#FECES;Bird (live animals)
+;;anadara tuberculosa;;;False;A02GM;Molluscs
+clinical;human;homo sapiens;;not available;False;HUMAN;Human
+environmental other;other;;;not available;False;0ROOT;ROOT
+;food;penaeus monodon;;;False;A02FX;Shrimps and prawns
+;high density polyethylene;;;;False;0ROOT;ROOT
+;;apostichopus japonicus;;;False;A02GR;Sea-cucumbers
+;shrimp hepatopancreas;shrimp;;;False;A02FX;Shrimps and prawns
+;shrimp;penaeus vannamei;;;False;A02GA;White shrimp
+;;solen strictus;;;False;A0FAB;Miscellaneous marine molluscs
+environmental other;oysters;;environmental;;False;A02HG;Oysters
+clinical;stool;homo sapiens;;vibriosis gastroenteritis;False;HUMAN;Human
+clinical;stool specimens;homo sapiens;;gastroenteritis;False;HUMAN;Human
+;anadara tuberculosa;;;;False;A02GZ;Clams, cockles, arkshells
+environmental other;wastewater;;;;False;WATER;Water
+;aquaculture farm hepatopancreas;penaeus vannamei;;;False;A07RV#F01.A02GA;Farmed / cultivated / aquaculture
+;hepatopancreas aquaculture farm;penaeus vannamei;;;False;A07RV#F01.A02GA;Farmed / cultivated / aquaculture
+clinical;surveillance of cases of diarrhea patients;homo sapiens;;diarrhea;False;HUMAN;Human
+clinical;clinical;homo sapiens;;;False;HUMAN;Human
+;seafood;shellfish;;;False;A0EZQ;Seafood and products thereof
+;seafood;shrimp;;;False;A02FX;Shrimps and prawns
+;seafood;fish;;;False;A026V;Fish (meat)
+;freshwater food;fish;;;False;A026V;Fish (meat)
+;freshwater food;shrimp;;;False;A02FX;Shrimps and prawns
+;freshwater;freshwater;;;False;WATER;Water
+;hepatopancreas and stomach;penaeus vannamei;;;False;A02FX;Shrimps and prawns
+environmental other;salt water;;environmental;;False;WATER;Water
+clinical;ear;homo sapiens;;infection;False;HUMAN;Human
+clinical;spinal wound;homo sapiens;;infection;False;HUMAN;Human
+;shrimp farm;shrimp;;;False;A07RV#F01.A02GA;Farmed / cultivated / aquaculture
+;hybrid grouper cage from fish farm;;;;False;A07RV#F01.A02GA;Farmed / cultivated / aquaculture
+environmental other;chicken;;;;False;A01SP;Chicken fresh meat

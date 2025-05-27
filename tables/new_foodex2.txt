@@ -1,0 +1,5 @@
+CODE	DESCRIPTION	PARENT CODE	PARENT DESCRIPTION
+ANIMA	Animals	A0BYQ	Others matrices
+WATER	Seawater	A0C5Y	Environment
+WASWA	Waste water	A0C5Y	Environment
+HUMAN	Human	0ROOT	ROOT
